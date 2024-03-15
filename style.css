@@ -1,0 +1,16 @@
+header{
+    background-color:#6A5ACD;
+    text-align: center;
+}
+.botones{
+    position: relative;
+    right:10px;
+}
+
+.logo img{
+    width: 100px;
+    height:100px;
+}
+main{
+    background-color:#7e5be5 ;
+}
